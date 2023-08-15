@@ -1,2 +1,10 @@
-data/img/*
+data/*
 carla
+models/*
+.ipynb_checkpoints
+__pycache__
+data_old/*
+car-lane
+*.zip
+*.drawio
+train.ipynb
